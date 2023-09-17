@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{498DBAF4-1628-E1BB-3A05-AE4A5A955AA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ButtonManager.cs">
+    <Files>
+      <File FileName="Assets/ButtonManager.cs" Line="19" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="buttonTesting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ButtonManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="657a5877-c095-475a-bcb7-9b134b643741" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
